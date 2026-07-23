@@ -241,8 +241,6 @@ nav .nav-links li a {
   color: #f0f0f0;
   font-size: 3rem;
   text-decoration: underline;
-  -webkit-text-decoration-color: #9d2c9e;
-  text-decoration-color: #9d2c9e;
   text-decoration-thickness: 10px;
   text-underline-offset: -3px;
   margin-top: 20px;
@@ -341,8 +339,6 @@ nav .nav-links li a {
   color: #f0f0f0;
   font-size: 3rem;
   text-decoration: underline;
-  -webkit-text-decoration-color: #9d2c9e;
-  text-decoration-color: #9d2c9e;
   text-decoration-thickness: 10px;
   text-underline-offset: -3px;
   margin-top: 20px;
